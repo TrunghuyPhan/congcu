@@ -1,0 +1,15 @@
+D:\DATA\congcu\Git\Git\bin\Debug\netcoreapp3.1\Git.exe
+D:\DATA\congcu\Git\Git\bin\Debug\netcoreapp3.1\Git.deps.json
+D:\DATA\congcu\Git\Git\bin\Debug\netcoreapp3.1\Git.runtimeconfig.json
+D:\DATA\congcu\Git\Git\bin\Debug\netcoreapp3.1\Git.runtimeconfig.dev.json
+D:\DATA\congcu\Git\Git\bin\Debug\netcoreapp3.1\Git.dll
+D:\DATA\congcu\Git\Git\bin\Debug\netcoreapp3.1\Git.pdb
+D:\DATA\congcu\Git\Git\obj\Debug\netcoreapp3.1\Git.csprojAssemblyReference.cache
+D:\DATA\congcu\Git\Git\obj\Debug\netcoreapp3.1\Git.Form1.resources
+D:\DATA\congcu\Git\Git\obj\Debug\netcoreapp3.1\Git.csproj.GenerateResource.cache
+D:\DATA\congcu\Git\Git\obj\Debug\netcoreapp3.1\Git.AssemblyInfoInputs.cache
+D:\DATA\congcu\Git\Git\obj\Debug\netcoreapp3.1\Git.AssemblyInfo.cs
+D:\DATA\congcu\Git\Git\obj\Debug\netcoreapp3.1\Git.csproj.CoreCompileInputs.cache
+D:\DATA\congcu\Git\Git\obj\Debug\netcoreapp3.1\Git.dll
+D:\DATA\congcu\Git\Git\obj\Debug\netcoreapp3.1\Git.pdb
+D:\DATA\congcu\Git\Git\obj\Debug\netcoreapp3.1\Git.genruntimeconfig.cache
