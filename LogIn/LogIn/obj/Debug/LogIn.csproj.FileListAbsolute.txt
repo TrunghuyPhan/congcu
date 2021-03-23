@@ -7,3 +7,6 @@ C:\Users\User\OpenGL\LogIn\LogIn\obj\Debug\LogIn.Properties.Resources.resources
 C:\Users\User\OpenGL\LogIn\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
 C:\Users\User\OpenGL\LogIn\LogIn\obj\Debug\LogIn.exe
 C:\Users\User\OpenGL\LogIn\LogIn\obj\Debug\LogIn.pdb
+C:\Users\User\source\repos\TrunghuyPhan\congcu\LogIn\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\User\source\repos\TrunghuyPhan\congcu\LogIn\LogIn\obj\Debug\LogIn.exe
+C:\Users\User\source\repos\TrunghuyPhan\congcu\LogIn\LogIn\obj\Debug\LogIn.pdb
